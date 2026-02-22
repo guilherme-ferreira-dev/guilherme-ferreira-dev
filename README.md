@@ -1,3 +1,3 @@
 - 🔭 I am currently studying to be an IOS developer
 - 🌱 I’m currently learning Swift and C
-- 📫 How to reach me: guiguiferreiraw@gmail.com
+- 📫 How to reach me: ferreira.87.guilherme@gmail.com
